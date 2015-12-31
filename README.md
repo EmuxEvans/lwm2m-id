@@ -239,8 +239,8 @@ APIs
 
 Identifier Table
 --------
-| LWM2M/IPSO Object Id  | LWM2M/IPSO Object Name | lwm2m-id Key             |
-|:---------------      :|:-----------------     :|:---------------         :|
+| LWM2M/IPSO Object Id  | LWM2M/IPSO Object Name| lwm2m-id Key              |
+|:----------------------|----------------------:|--------------------------:|
 |        0              |LWM2M Security         |  lwm2mSecurity            |
 |        1              |LWM2M Server           |   lwm2mServer             |
 |        2              |Access Control         |  accessControl            |
